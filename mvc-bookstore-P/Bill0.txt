@@ -1,0 +1,3 @@
+Title: "Test Book", Quantities: 2, OriginalPrice 25.0, Price: 50.0
+
+Total price: 50.0 Date: Fri Jan 19 01:31:07 CET 2024
